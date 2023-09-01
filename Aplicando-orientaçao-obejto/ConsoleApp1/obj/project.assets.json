@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\C#\\Orien-objeto\\Aplicando-orientaçao-obejto\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "G:\\C#\\Aplicando-orientaçao-obejto\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "G:\\C#\\Orien-objeto\\Aplicando-orientaçao-obejto\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "G:\\C#\\Aplicando-orientaçao-obejto\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\jmarc\\.nuget\\packages\\",
-      "outputPath": "G:\\C#\\Orien-objeto\\Aplicando-orientaçao-obejto\\ConsoleApp1\\obj\\",
+      "outputPath": "G:\\C#\\Aplicando-orientaçao-obejto\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

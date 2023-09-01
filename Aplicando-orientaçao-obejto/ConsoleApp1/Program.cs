@@ -1,2 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿Musica musical = new Musica();
+musical.nome = "Roxane";
+musical.artista = "the police";
+musical.duracao = 24;
+musical.disponivel = true;
+
+
+musical.ExibirFichaTecnica();
+
